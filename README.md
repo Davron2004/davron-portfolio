@@ -1,6 +1,3 @@
-# davron-portfolio
-
-
 ![DavronDjabborov_banner](https://github.com/user-attachments/assets/31b90654-13c0-477c-a5b4-c624902cb7a3)       
  
 ### 👋 Hi! I'm Davron - Full Stack Engineer. Here’s what I’ve been focusing on now.
